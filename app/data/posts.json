@@ -1,0 +1,22 @@
+{
+    "posts": [
+        {
+            "id": "next.js14-portforio",
+            "title": "Next.js14でポートフォリオサイトを制作",
+            "content": "Next.js14でポートフォリオサイトを作成しました！",
+            "createdAt": "2023/11/25"
+        },
+        {
+            "id": "creat-lp-EtherSyncZen",
+            "title": "架空のモダン民藝陶器のオンラインショップサイトを制作",
+            "content": "モダン民藝陶器と茶器のオンラインショップサイトを制作しました。",
+            "createdAt": "2023/11/14"
+        },
+        {
+            "id": "next.js14-portforio",
+            "title": "架空の建築設計事務所のLPを作成しました。",
+            "content": "架空の開発と環境保全、まちづくり相談を請け負う建築設計事務所のLPを作成しました。",
+            "createdAt": "2023/11/07"
+        }
+    ]
+}
